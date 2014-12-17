@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This is Jake's repository.
+I finally learned computers!
